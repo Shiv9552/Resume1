@@ -1,9 +1,15 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"NSDI24":
+  url: https://www.usenix.org/conference/nsdi24/poster-session
+  color: "#d87c5a"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"HotNets22":
+  url: https://conferences.sigcomm.org/hotnets/2022/index.html
+  color: "#d87c5a"
 
-"Vision":
-  color: "#009f36"
+"IJMNDI":
+  url: https://www.inderscienceonline.com/doi/abs/10.1504/IJMNDI.2020.112622
+  color: "#d87c5a"
+
+"RG":
+  url: https://www.researchgate.net/
+  color: "#d87c5a"
